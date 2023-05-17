@@ -159,7 +159,8 @@ body {
   letter-spacing: -0.2px;
   color: #1b1c21;
 }
-
+/*код для активации --active */
+/*
 .navigation__item--active {
   font-family: "TT Lakes";
   font-size: 16px;
@@ -177,6 +178,7 @@ body {
   background: #41f6d7;
   border-radius: 0 4px 4px 0;
 }
+*/
 
 .aside-menu__footer {
   display: flex;
