@@ -86,7 +86,7 @@ body {
   box-shadow: 5px 5px 5px rgba(255, 255, 255, 0.5);
 }
 
-.aside-menu__btn-close--cross:hover {
+.aside-menu__btn-close--rotate:hover {
   transition-timing-function: ease-in-out;
   transition-duration: 0.3s;
   transform: rotate(-90deg);
